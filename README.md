@@ -8,16 +8,22 @@
 First install NPM means NODE js. 
 Link: https://nodejs.org/en/download/
 
+Then Clone this repo: (Paste in terminal)
+    
+    git clone https://github.com/zamansheikh/Robot.git
+    cd Robot
+
 Then set require files: 
     python
     visual Studio code
     choclaty
     by clicking Install additional Tools for node.js from start menu. 
 
-then Your git clone repo ==>>
+then Your git clone repo:
+
     npm init
 
-    output:
+Output Looks Like :
 
     [[[PS H:\Dev\Hack\Robot> npm init
     This utility will walk you through creating a package.json file.
@@ -63,7 +69,7 @@ then Your git clone repo ==>>
     Is this OK? (yes) yes
     PS H:\Dev\Hack\Robot>]]]
 
-then istall all package :
+then install all packages :
 
     npm i jsonfile
     npm i moment
@@ -81,11 +87,15 @@ git Command:
 Then if need sign in, Please Sign in. 
 
 then run:
+
        node index.js
+       
  & BOOOOOOOOOM 🔥🔥🔥🔥🔥
 
 
-Some Git Commad: git restore --staged *.md
-                git add README.md
-                git add *.md
-                git add . //root folder.
+Some Git Commad: 
+        
+        git restore --staged *.md
+        git add README.md
+        git add *.md
+        git add . //root folder.

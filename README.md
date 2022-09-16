@@ -1,6 +1,7 @@
-# Robot
+# Robot - Hack the git graph in 20 Second !!! 🔥
 
-//Screenshot
+## Screenshot
+
 ![](https://raw.github.com/public-contributions/HACK/master/hack.png)
 
 ==>>
@@ -71,15 +72,17 @@ then istall all package :
 
 try to commit something manually: 
 
-git
+git Command: 
 
-Command: git commit -m "This is test Commit for SignIn"
-         git commit -m "Check"
+        git commit -m "This is test Commit for SignIn"
+        git commit -m "Check"
 
 
 Then if need sign in, Please Sign in. 
 
-then run==>> node index.js   & BOOOOOOOOOM 🔥🔥🔥🔥🔥
+then run:
+       node index.js
+ & BOOOOOOOOOM 🔥🔥🔥🔥🔥
 
 
 Some Git Commad: git restore --staged *.md

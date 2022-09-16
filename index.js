@@ -33,4 +33,4 @@ const makeCommit = (n) => {
 
 }
 
-makeCommit(355);
+makeCommit(2);

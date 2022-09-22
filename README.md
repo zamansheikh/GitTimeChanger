@@ -38,7 +38,7 @@ then Your git clone repo:
 
 Output Looks Like :
 
-    [[[PS H:\Dev\Hack\Robot> npm init
+    >> npm init
     This utility will walk you through creating a package.json file.
     It only covers the most common items, and tries to guess sensible defaults.
 
@@ -80,7 +80,6 @@ Output Looks Like :
         "homepage": "https://github.com/zamansheikh/Robot#readme"
     }
     Is this OK? (yes) yes
-    PS H:\Dev\Hack\Robot>]]]
 
 then install all packages :
 

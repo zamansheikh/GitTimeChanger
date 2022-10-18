@@ -23,8 +23,8 @@ Link: https://nodejs.org/en/download/
 
 Then Clone this repo: (Paste in terminal)
     
-    git clone https://github.com/zamansheikh/Robot.git
-    cd Robot
+    git clone https://github.com/zamansheikh/GitTimeChanger.git
+    cd GitTimeChanger
 
 Then set require files: 
     python
@@ -54,11 +54,11 @@ Output Looks Like :
     description: School Hacker
     entry point: (index.js)
     test command:
-    git repository: (https://github.com/zamansheikh/Robot.git)
+    git repository: (https://github.com/zamansheikh/GitTimeChanger.git)
     keywords:
     author: Zaman Sheikh
     license: (ISC)
-    About to write to H:\Dev\Hack\Robot\package.json:
+    About to write to H:\Dev\Hack\GitTimeChanger\package.json:
 
     {
         "name": "robot",
@@ -70,14 +70,14 @@ Output Looks Like :
     },
         "repository": {
         "type": "git",
-        "url": "git+https://github.com/zamansheikh/Robot.git"
+        "url": "git+https://github.com/zamansheikh/GitTimeChanger.git"
     },
         "author": "Zaman Sheikh",
         "license": "ISC",
         "bugs": {
-        "url": "https://github.com/zamansheikh/Robot/issues"
+        "url": "https://github.com/zamansheikh/GitTimeChanger/issues"
     },
-        "homepage": "https://github.com/zamansheikh/Robot#readme"
+        "homepage": "https://github.com/zamansheikh/GitTimeChanger#readme"
     }
     Is this OK? (yes) yes
 
@@ -100,7 +100,7 @@ Then if need sign in, Please Sign in.
 
 then run:
 
-       node index.js
+       node indexRan.js
        
  & BOOOOOOOOOM 🔥🔥🔥🔥🔥
 

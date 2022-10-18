@@ -33,4 +33,4 @@ const makeCommit = (n) => {
 
 }
 
-makeCommit(2);
+makeCommit(300);

@@ -26,7 +26,7 @@ Then Clone this repo: (Paste in terminal)
     git clone https://github.com/zamansheikh/GitTimeChanger.git
     cd GitTimeChanger
 
-Then set require files: [Must]
+Then set require files:
     python
     visual Studio code
     choclaty 

@@ -37,7 +37,7 @@ then install all packages :
     npm i jsonfile
     npm i moment
     npm i simple-git
-    npm i random
+    npm install random@2.2.0
 
 
 then Your git clone repo:

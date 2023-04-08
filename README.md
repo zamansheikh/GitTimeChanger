@@ -32,6 +32,14 @@ Then set require files:
     choclaty
     by clicking Install additional Tools for node.js from start menu. 
 
+then install all packages :
+
+    npm i jsonfile
+    npm i moment
+    npm i simple-git
+    npm i random
+
+
 then Your git clone repo:
 
     npm init
@@ -81,12 +89,6 @@ Output Looks Like :
     }
     Is this OK? (yes) yes
 
-then install all packages :
-
-    npm i jsonfile
-    npm i moment
-    npm i simple-git
-    npm i random
 
 try to commit something manually: 
 

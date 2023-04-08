@@ -26,17 +26,17 @@ Then Clone this repo: (Paste in terminal)
     git clone https://github.com/zamansheikh/GitTimeChanger.git
     cd GitTimeChanger
 
-Then set require files: 
+Then set require files: [Must]
     python
     visual Studio code
-    choclaty
+    choclaty 
     by clicking Install additional Tools for node.js from start menu. 
 
 then install all packages :
-
-    npm i jsonfile
-    npm i moment
-    npm i simple-git
+    npm install -g npm@9.6.4
+    npm install jsonfile@6.1.0
+    npm install moment@2.29.4
+    npm install simple-git@3.17.0
     npm install random@2.2.0
 
 

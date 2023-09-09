@@ -107,3 +107,8 @@ Some Git Commad:
         git add README.md
         git add *.md
         git add . //root folder.
+
+
+## 💲Donate 
+
+<p><a href="https://www.buymeacoffee.com/zamansheikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zamansheikh" /></a></p></br><br>
